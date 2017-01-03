@@ -1,2 +1,10 @@
-# libmemcached
 libmemcached
+============
+
+libmemcached
+
+
+License
+-------
+
+MIT License
